@@ -1,7 +1,7 @@
 ## Description
-Simple token price data exposed through an actix server.
-Data is retrieved from `OKX` exchange, but the code is so simple you can modify it to suit your needs if thats required.
-Built to display prices on my Nokia N9 using [Billboard](https://github.com/harmattan/billboard). Long live Meego Harmattan!
+Simple token price data exposed through an actix server.  
+Data is retrieved from `OKX` exchange, but the code is so simple you can modify it to suit your needs if thats required.  
+Built to display prices on my Nokia N9 using [Billboard](https://github.com/harmattan/billboard). Long live Meego Harmattan! <3
 
 
 ## Build
